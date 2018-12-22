@@ -15,7 +15,7 @@ html,body{
 }
 img{
   max-width: 50%; 
-  float: right;
+  //float: right;
   display: block; 
   height: auto;
   margin: auto;
@@ -33,14 +33,14 @@ img{
 }
 #headline{
   margin-top:50px;
-  text-align:left;
+  
   
 }
 ul{
   max-width:550px;
   margin:0 auto;
   text-align:left;
-  float: left;
+  
 }
 li{
   margin: 10px;

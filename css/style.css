@@ -12,7 +12,8 @@ html,body{
   background:#eee;
 }
 img{
-  max-width: 100%; 
+  max-width: 50%; 
+  float: right;
   display: block; 
   height: auto;
   margin: auto;
@@ -35,6 +36,7 @@ ul{
   max-width:550px;
   margin:0 auto;
   text-align:left;
+  float: left;
 }
 li{
   margin: 10px;
